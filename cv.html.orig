@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head<title>Niharika's hobbies</title>
+</head>
+<body>
+<<<<<<< HEAD
+	<h2>Skills</h2>
+=======
+<h2>Hobbies</h2>
+>>>>>>> b2
+<ul>
+  <li>Reading</li>
+  <li>Drawing</li>
+  <li>Traveling</li>
+</ul>
+</body>
